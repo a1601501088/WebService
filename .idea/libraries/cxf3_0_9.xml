@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="cxf3.0.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/geronimo-servlet_3.0_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/jetty-continuation-8.1.19.v20160209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/jetty-http-8.1.19.v20160209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/jetty-io-8.1.19.v20160209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/jetty-security-8.1.19.v20160209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/jetty-server-8.1.19.v20160209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/jetty-util-8.1.19.v20160209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/neethi-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/wsdl4j-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/xmlschema-core-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webService/src/lib/cxf-core-3.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
